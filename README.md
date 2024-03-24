@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, My name is Ulises and I am cerrently working on the hands-on git project. I am learning how to code but to be more spasific, I am learing how to use github right now. My pronouns are he/him and a fun fact about me is that I know how to build computers and have built one for myself, my girlfriend, and my brothers. I am looking forward to collaborating with my classmates and teacher to complete projects necessery for the class. you can reach me with an email to "uliselagunas71@gmail.com".
 
 <!--
 **UlisesLag/UlisesLag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
